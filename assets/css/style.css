@@ -1,7 +1,7 @@
 .navbar {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    background-color: #8DB8FF;
+    background-color: #00754F;
 }
 
 .navbar-brand {
@@ -11,7 +11,29 @@
 .tletra {
     font-family: 'Maven Pro', sans-serif;
     font-weight: 400;
+    font-size: 0.80em;
+}
+body {
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
     font-size: 1.25em;
+}
+
+.icons {
+    color: #00754F;
+}
+
+.bg-card {
+    background: #00754F;
+}
+h5 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+
+.yo {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
 }
 
 .foto {
@@ -22,8 +44,12 @@
     height: 40rem;
 }
 
+.fab {
+    color: #ffffff;
+}
+
 footer {
-    background-color: #8DB8FF;
+    background-color: #00754F;
 }
 
 .boton-subir {
@@ -41,4 +67,8 @@ footer {
     width: 4rem;
     height: 2px;
     background: #000;
+}
+
+footer a {
+    padding-right: 5px;
 }
