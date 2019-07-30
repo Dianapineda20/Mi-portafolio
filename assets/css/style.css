@@ -1,0 +1,35 @@
+.navbar {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    background-color: #8DB8FF;
+
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+
+
+
+.tletra {
+    font-family: 'Maven Pro', sans-serif;
+    font-weight: 400;
+    font-size: 1.25em;
+}
+
+.foto {
+    background-image: url('img/bg.diana.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+}
+
+footer {
+    background-color: #8DB8FF;
+}
+.boton-subir {
+    position: fixed; 
+    bottom:0;
+    right: 0; 
+}
