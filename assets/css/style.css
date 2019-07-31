@@ -43,7 +43,10 @@ h5 {
     background-position: center;
     height: 40rem;
 }
-
+header {
+    text-shadow: 100rem;
+    padding: 25rem;
+}
 .fab {
     color: #ffffff;
 }
